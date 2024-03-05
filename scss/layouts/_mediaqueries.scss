@@ -1,0 +1,29 @@
+
+@media (max-width: 767px){
+    .noticias-t p {
+        margin-left: 1rem;
+    }
+
+    .carousel-item img {
+        max-height: 200px;
+    }
+}
+
+
+@media (min-width: 768px) and (max-width: 1199px) {
+    .noticias-t p{
+        margin-left: 1rem;
+    }
+    .carousel-item img {
+        max-height: 300px;
+    } 
+}
+    
+
+@media (min-width: 1200px) {
+    .carousel-item img {
+        max-height: 400px;
+    }
+}
+
+
