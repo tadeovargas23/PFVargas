@@ -125,6 +125,7 @@ main {
 
 .imagen-producto {
   width: 90%;
+  padding-top: 40px;
 }
 .imagen-producto img {
   width: 90%;
